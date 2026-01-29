@@ -77,7 +77,10 @@ Below are screenshots from the Playwright HTML report and test executions, demon
 - Code is clean, readable, and logically structured
 - No hard-coded delays; proper synchronization is used
 - Screenshots, videos, and traces are enabled
-- The project runs locally without errors following the instructions above
+- The project runs locally without errors following the instructions above\
+- Credentials for SauceDemo are:
+  - Username: standard_user
+  - Password: secret_sauce
 
 
 
