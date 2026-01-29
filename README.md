@@ -23,8 +23,8 @@ The project demonstrates:
 
 ### 1. Clone the repository
 ```bash
-git clone <REPO_URL>
-cd <REPO_NAME>
+git clone https://github.com/kevinherman1104/testAnyTax.git
+cd tests
 ```
 ### 2. Install dependencies
 ```bash
